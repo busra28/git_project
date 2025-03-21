@@ -28,3 +28,4 @@ Bu süreçte **ChatGPT'yi kullanarak** çözümler buldum. Özellikle aşağıda
 - Git komutları hakkında detaylı bilgi edinmek.
 - README.md dosyasında Markdown biçimlendirme hatalarını düzeltmek.
 
+![9gg](https://github.com/busra28/git_project/blob/master/img/github-logo.jpg)
